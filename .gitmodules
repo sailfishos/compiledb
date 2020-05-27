@@ -1,0 +1,3 @@
+[submodule "compiledb"]
+	path = compiledb
+	url = https://github.com/sailfishos-mirror/compiledb.git
