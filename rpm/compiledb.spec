@@ -12,6 +12,7 @@ BuildRequires: python3-bashlex
 BuildRequires: python3-shutilwhich
 Requires: python3-click
 Requires: python3-bashlex
+Requires: python3-setuptools
 Requires: python3-shutilwhich
 
 %description
